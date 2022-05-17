@@ -1,6 +1,6 @@
 My Laravel contribution:
 
-🔧 Improve `laravel/fortify` package https://github.com/laravel/fortify/pull/389 — refused by Taylor, but I disagree 🤷‍♂️ <br> 
+🔧 Improve `laravel/fortify` package https://github.com/laravel/fortify/pull/389 — refused by Taylor for nothing 😀 🤷‍♂️ <br> 
 🔥 Core! Fix https://github.com/laravel/framework/pull/41956 <br>
 🔥 Core! Fix https://github.com/laravel/framework/pull/41797 <br>
 🔥 Core! Add a new validation rule https://github.com/laravel/framework/pull/41691 <br>
