@@ -6,3 +6,6 @@ My Laravel contribution:
 🔥 Core! Add a new validation rule https://github.com/laravel/framework/pull/41691 <br>
 🤏 Fix https://github.com/worksome/envy/pull/18 <br>
 📦 Package [laravel-nemid](https://github.com/a-bashtannik/laravel-nemid) — [NemID](https://www.nets.eu/dk-da/l%C3%B8sninger/nemid) service integration [author]
+
+----
+Please, support our fight for primary keys in [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238).
