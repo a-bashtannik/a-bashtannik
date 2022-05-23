@@ -1,4 +1,4 @@
-My Laravel contribution:
+**My Laravel contribution:**
 
 🔧 Improve `laravel/fortify` package https://github.com/laravel/fortify/pull/389 — refused by Taylor for nothing 😀 🤷‍♂️ <br> 
 🔥 Core! Fix https://github.com/laravel/framework/pull/41956 <br>
