@@ -6,6 +6,7 @@
 🔥 Core! Add a new validation rule https://github.com/laravel/framework/pull/41691 <br>
 🤏 Fix https://github.com/worksome/envy/pull/18 <br>
 🤏 Fix https://github.com/uptime-development/laravel-socialite-criipto/pull/2 <br>
+🤏 Fix https://github.com/laracraft-tech/laravel-xhprof/pull/2 profiler <br>
 📦 Package [laravel-nemid](https://github.com/a-bashtannik/laravel-nemid) — [NemID](https://www.nets.eu/dk-da/l%C3%B8sninger/nemid) service integration [author]
 
 ----
