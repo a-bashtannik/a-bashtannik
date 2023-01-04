@@ -12,3 +12,5 @@
 
 ----
 Please, support our fight for primary keys in [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238).
+
+<img src="https://engpjfw2sdvfl3l.m.pipedream.net/">
