@@ -1,6 +1,6 @@
 **My Laravel contribution:**
 
-🔧 https://github.com/laravel/framework/issues/44820 — not bug but feature — so Laravel ❤️ 🤦‍♂️ <br>
+🔧 https://github.com/laravel/framework/issues/44820 — "not bug but feature", but [let's try PR](https://github.com/laravel/framework/pull/45611) <br>
 🔧 Improve `laravel/fortify` package https://github.com/laravel/fortify/pull/389 — refused by Taylor for nothing 😀 🤷‍♂️ <br> 
 🔥 Core! Fix https://github.com/laravel/framework/pull/41956 <br>
 🔥 Core! Fix https://github.com/laravel/framework/pull/41797 <br>
