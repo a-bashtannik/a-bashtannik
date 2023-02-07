@@ -1,13 +1,13 @@
 **My Laravel contribution:**
 
 🔥 Core! Fix https://github.com/laravel/framework/pull/45611 bug <br>
-🔧 Improve `laravel/fortify` package https://github.com/laravel/fortify/pull/389 — refused by Taylor 😀 🤷‍♂️ <br> 
+🔧 Improve `laravel/fortify` package https://github.com/laravel/fortify/pull/389 <br> 
 🔥 Core! Fix https://github.com/laravel/framework/pull/41956 <br>
 🔥 Core! Fix https://github.com/laravel/framework/pull/41797 <br>
 🔥 Core! Add a new validation rule https://github.com/laravel/framework/pull/41691 <br>
 🤏 Fix https://github.com/worksome/envy/pull/18 <br>
 🤏 Fix https://github.com/uptime-development/laravel-socialite-criipto/pull/2 <br>
-🤏 Fix https://github.com/laracraft-tech/laravel-xhprof/pull/2 profiler <br>
+🤏 Fix https://github.com/laracraft-tech/laravel-xhprof/pull/2 <br>
 📦 Package [laravel-nemid](https://github.com/a-bashtannik/laravel-nemid) — [NemID](https://www.nets.eu/dk-da/l%C3%B8sninger/nemid) service integration [author]
 
 ----
