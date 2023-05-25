@@ -13,4 +13,6 @@
 ----
 Please, support our fight for primary keys in [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238).
 
+[We also push Microsoft to add Github Copilot in PHPStorm plugin — join us!](https://github.com/orgs/community/discussions/50808)
+
 <img src="https://engpjfw2sdvfl3l.m.pipedream.net/">
