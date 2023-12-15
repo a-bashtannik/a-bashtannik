@@ -11,8 +11,8 @@
 📦 Package [laravel-nemid](https://github.com/a-bashtannik/laravel-nemid) — [NemID](https://www.nets.eu/dk-da/l%C3%B8sninger/nemid) service integration [author]
 
 ----
-Please, support our fight for primary keys in [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238).
+~Please, support our fight for primary keys in~ [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238) — after 4 years we won!
 
-[We also push Microsoft to add Github Copilot in PHPStorm plugin — join us!](https://github.com/orgs/community/discussions/50808)
+[We also push Microsoft to add Github Copilot in PHPStorm plugin](https://github.com/orgs/community/discussions/50808) — achieved in 6 months! Enjoy Github Copilot in the industry standard IDE.
 
 <img src="https://engpjfw2sdvfl3l.m.pipedream.net/">
