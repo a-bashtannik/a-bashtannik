@@ -8,8 +8,9 @@
 🤏 Fix https://github.com/worksome/envy/pull/18 <br>
 🤏 Fix https://github.com/uptime-development/laravel-socialite-criipto/pull/2 <br>
 🤏 Fix https://github.com/laracraft-tech/laravel-xhprof/pull/2 <br>
-📦 Package [laravel-nemid](https://github.com/a-bashtannik/laravel-nemid) — [NemID](https://www.nets.eu/dk-da/l%C3%B8sninger/nemid) service integration [author]
+📦 Package [laravel-nemid](https://github.com/a-bashtannik/laravel-nemid) — [NemID](https://www.nets.eu/dk-da/l%C3%B8sninger/nemid) service integration [author] <br>
 📦 Package [fasti](https://github.com/a-bashtannik/fasti) Laravel task scheduler with calendar-based management [author]
+
 ----
 ~Please, support our fight for primary keys in~ [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238) — after 4 years we won!
 
