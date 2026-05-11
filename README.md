@@ -12,8 +12,9 @@
 📦 Package [fasti](https://github.com/a-bashtannik/fasti) — Laravel task scheduler with calendar-based management [author]
 
 ----
-~Please, support our fight for primary keys in~ [Laravel Telescope threads](https://github.com/laravel/framework/issues/33238) — after 4 years we won!
+**AI empowers developers — use it.** 
 
-[We also push Microsoft to add Github Copilot in PHPStorm plugin](https://github.com/orgs/community/discussions/50808) — achieved in 6 months! Enjoy Github Copilot in the industry standard IDE.
+✨ Co-pushed Microsoft to ship the official [GitHub Copilot plugin for PHPStorm](https://github.com/orgs/community/discussions/50808) – delivered in 6 months.<br>
+✨ My tools for book translation [nice set to translate and read](https://github.com/a-bashtannik/trans-tools) – they just work. 
 
 <img src="https://engpjfw2sdvfl3l.m.pipedream.net/">
